@@ -1,6 +1,6 @@
 # Employee Attrition Analysis & Prediction
 
-An end-to-end data science project that analyses and predicts employee attrition using a fictional HR dataset of 1,470 employees across 31 features. The project covers exploratory data analysis (EDA), machine learning modelling, and a management-ready presentation deck.
+An end-to-end data science project that analyses and predicts employee attrition using a fictional HR dataset of 1,470 employees across 31 features. The project covers exploratory data analysis (EDA) and machine learning modelling.
 
 ---
 
