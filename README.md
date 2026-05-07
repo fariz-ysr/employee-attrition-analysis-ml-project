@@ -21,7 +21,7 @@ Employee-Attrition-Analysis/
 
 - Identify the key drivers of employee attrition through exploratory data analysis
 - Build and compare machine learning models to predict which employees are at risk of leaving
-- Translate analytical findings into actionable retention strategies for HR leadership
+- Translate analytical findings into actionable retention strategies 
 
 ---
 
